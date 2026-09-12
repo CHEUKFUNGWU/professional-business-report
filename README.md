@@ -1,6 +1,6 @@
 # Professional Business Report
 
-A Codex skill for turning business questions, datasets, and source material into evidence-led reports that support a decision.
+A portable Agent Skill for turning business questions, datasets, and source material into evidence-led reports that support a decision.
 
 The skill combines two complementary research traditions:
 
@@ -41,9 +41,48 @@ decision question
 
 The skill requires claims to trace back to cited evidence or reproducible calculations. It separates observations, interpretations, forecasts, and recommendations. It also checks definitions, samples, denominators, units, assumptions, sensitivities, and causal language.
 
-## Install
+## Install across agent harnesses
 
-Clone the repository into your Codex skills directory:
+The repository follows the standard `SKILL.md` format and is recognised by the open `skills` CLI. You need Node.js and `npx`.
+
+Run the interactive installer and choose any detected agents:
+
+```bash
+npx skills@latest add CHEUKFUNGWU/professional-business-report
+```
+
+Install globally for selected harnesses without prompts:
+
+```bash
+npx skills@latest add CHEUKFUNGWU/professional-business-report \
+  --skill professional-business-report \
+  --agent claude-code cursor codex \
+  --global \
+  --yes
+```
+
+Install globally for every supported harness detected on the machine:
+
+```bash
+npx skills@latest add CHEUKFUNGWU/professional-business-report \
+  --skill professional-business-report \
+  --agent '*' \
+  --global \
+  --yes
+```
+
+The installer supports many agents and writes or links the Skill to the correct directory for each selected harness. Omit `--global` to install it only in the current project.
+
+To disable anonymous installer telemetry:
+
+```bash
+DISABLE_TELEMETRY=1 npx skills@latest add \
+  CHEUKFUNGWU/professional-business-report
+```
+
+### Manual installation
+
+You can also clone the repository into the skills directory used by your agent. For Codex:
 
 ```bash
 mkdir -p ~/.codex/skills
@@ -51,9 +90,17 @@ git clone https://github.com/CHEUKFUNGWU/professional-business-report.git \
   ~/.codex/skills/professional-business-report
 ```
 
-Restart Codex if the skill does not appear immediately.
+Restart or reload your agent session if the skill does not appear immediately.
 
-To update an existing installation:
+### Update
+
+Update installations managed by the `skills` CLI:
+
+```bash
+npx skills@latest update professional-business-report --global
+```
+
+Update a manually cloned Codex installation:
 
 ```bash
 git -C ~/.codex/skills/professional-business-report pull
@@ -128,7 +175,7 @@ professional-business-report/
     └── writing-and-exhibits.md
 ```
 
-`SKILL.md` contains the shared workflow and routing rules. Codex loads the reference files only when the current report needs them.
+`SKILL.md` contains the portable workflow and routing rules. Compatible agents load the reference files only when the current report needs them. `agents/openai.yaml` provides optional Codex interface metadata and does not change the core Skill instructions.
 
 ## Design principles
 
@@ -143,7 +190,7 @@ professional-business-report/
 
 ## Language
 
-The skill instructions are written in English for portability. Reports can be produced in any language requested in the prompt.
+The skill instructions are written in English for portability across agent harnesses. Reports can be produced in any language requested in the prompt.
 
 ```text
 Use $professional-business-report to produce the final report in Chinese.
