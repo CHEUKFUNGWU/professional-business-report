@@ -82,6 +82,23 @@ Default structure:
 
 Reconcile market definitions across sources and avoid false precision.
 
+## Full-year industry performance from company filings
+
+Use when the user wants to understand how an industry performed during the latest or a specified completed financial year. Read [industry-performance-from-filings.md](industry-performance-from-filings.md). Build the analysis from the annual reports and regulatory filings of 5-10 representative companies, supplemented by official industry totals where available.
+
+Default structure:
+
+1. industry boundary, period, sample, coverage, and comparison basis;
+2. executive assessment of performance, breadth, and dispersion;
+3. demand and revenue performance, including volume, price/mix, currency, and acquisitions;
+4. profitability and cost drivers;
+5. cash generation, working capital, capital expenditure, and balance-sheet capacity;
+6. segment, geography, business-model, and value-chain differences;
+7. common and divergent risks disclosed across the sample;
+8. conclusions, limitations, and indicators carried into the next year.
+
+Write "the representative company sample" when the evidence comes from the selected firms. Use "the industry" only when a complete or sufficiently authoritative industry measure supports the statement.
+
 ## Outlook report
 
 Use when future conditions drive the decision.

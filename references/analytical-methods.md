@@ -71,6 +71,10 @@ Separate gross potential from realistically captured value. Model adoption, ramp
 
 Read [financial-statement-analysis.md](financial-statement-analysis.md). Start from disclosed risk, then trace the affected business activity into operating indicators, income-statement and balance-sheet accounts, cash flow, financial capacity, mitigation, and residual exposure. Use ratios only where they test a specific link in that chain.
 
+### Industry performance from company filings
+
+Read [industry-performance-from-filings.md](industry-performance-from-filings.md). Select a documented 5-10 company sample that represents the industry's scale, business models, regions, and value-chain positions. Normalise reporting periods and definitions before comparing. Report the sample median, scale-weighted result, dispersion, and breadth where the data supports them. Never present a company sample as a complete industry census.
+
 ### Forecast and scenario analysis
 
 Begin with inherited momentum and measurable drivers. Separate temporary effects from structural trends and level changes from growth-rate changes. Use a base case plus material alternatives only when uncertainty could change the decision.

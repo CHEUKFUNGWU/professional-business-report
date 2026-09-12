@@ -15,6 +15,7 @@ The skill can plan, analyse, draft, and review:
 
 - data-analysis reports
 - risk-oriented financial statement analysis
+- full-year industry performance from representative company filings
 - business performance diagnostics
 - strategy and transformation reports
 - industry and market studies
@@ -189,6 +190,25 @@ disclosures support them. Do not organise the report as a generic ratio review a
 do not infer fraud or provide an investment recommendation.
 ```
 
+### Full-year industry performance from company filings
+
+```text
+Use $professional-business-report to analyse the global airline industry's
+performance during the latest fully reported financial year.
+
+Select 5-10 representative listed airlines using documented criteria that cover
+different scales, regions, and business models. Use annual reports and regulatory
+filings as the primary sources. Normalise fiscal periods, currencies, accounting
+definitions, acquisitions, and alternative performance measures before comparing.
+
+Assess revenue growth, volume and price/mix, margins, cash generation, working
+capital, capital expenditure, balance-sheet capacity, and common risk disclosures.
+Show the sample median, a compatible scale-weighted result, dispersion, and the
+number of companies moving in the same direction. Explain whether performance was
+broad or driven by a few firms. Distinguish evidence from the representative
+company sample from complete industry statistics.
+```
+
 ## Repository structure
 
 ```text
@@ -200,6 +220,7 @@ professional-business-report/
     ├── analytical-methods.md
     ├── evidence-and-research.md
     ├── financial-statement-analysis.md
+    ├── industry-performance-from-filings.md
     ├── method-synthesis.md
     ├── quality-gates.md
     ├── report-modes.md

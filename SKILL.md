@@ -40,6 +40,7 @@ Read only the references needed:
 - For source collection, surveys, interviews, datasets, and evidence tracking, read [evidence-and-research.md](references/evidence-and-research.md).
 - For quantitative analysis, driver models, segmentation, forecasts, scenarios, value pools, and recommendations, read [analytical-methods.md](references/analytical-methods.md).
 - For risk-oriented financial statement analysis that links disclosed risks to business exposure, operating indicators, financial accounts, cash flow, mitigants, and resilience, read [financial-statement-analysis.md](references/financial-statement-analysis.md).
+- For a full-year industry performance report built from 5-10 representative companies' annual reports and filings, read [industry-performance-from-filings.md](references/industry-performance-from-filings.md).
 - To choose the report shape, read [report-modes.md](references/report-modes.md).
 - Before drafting prose or designing charts, read [writing-and-exhibits.md](references/writing-and-exhibits.md).
 - Before delivery, apply [quality-gates.md](references/quality-gates.md).

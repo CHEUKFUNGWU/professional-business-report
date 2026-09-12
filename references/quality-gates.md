@@ -62,6 +62,19 @@ Run these checks against the governing brief before delivery.
 - Boilerplate disclosure, changes in wording, and inconsistencies between risk narrative and financial behaviour are identified.
 - The analysis does not claim to be an audit or personalised investment advice.
 
+## Industry filing sample gate
+
+- The industry boundary, geography, completed year, and value-chain scope are explicit.
+- The 5-10 companies have documented selection reasons and cover more than the largest firms alone.
+- Excluded companies and material sample biases are disclosed.
+- Fiscal year-ends, period lengths, currencies, accounting standards, consolidation scopes, and alternative measures are reconciled or kept separate.
+- Annual reports or regulatory filings support historical company results. Presentations and media summaries are not the sole source.
+- Sample median, weighted result, range or dispersion, and direction-of-change breadth are calculated correctly where used.
+- Weighted margins use compatible numerator and denominator totals rather than an average of percentages.
+- The report distinguishes sample evidence from complete industry statistics.
+- Outliers, acquisitions, disposals, foreign exchange, and accounting changes do not silently drive the industry conclusion.
+- Cross-company risk themes link to observed business and financial exposures rather than disclosure word counts alone.
+
 ## Exhibit gate
 
 - Titles state supported takeaways.
