@@ -86,6 +86,10 @@ Run these checks against the governing brief before delivery.
 ## Writing gate
 
 - The prose is direct, specific, and natural.
+- English output meets the target profile in [language-and-style.md](language-and-style.md): sustained coherence, strong grammatical control, varied syntax, and precise advanced vocabulary.
+- Advanced words express a finer distinction than the simpler alternative; ornamental or thesaurus-driven vocabulary is removed.
+- Cohesion follows the logic of the argument rather than repeated transition phrases.
+- Modal verbs match evidential confidence and do not overstate forecasts, causality, or recommendations.
 - Each paragraph has one main point.
 - Empty urgency, puffery, vague attribution, filler, and repeated conclusions are removed.
 - Acronyms and technical terms are defined once.

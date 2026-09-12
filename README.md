@@ -56,6 +56,8 @@ decision question
 
 The skill requires claims to trace back to cited evidence or reproducible calculations. It separates observations, interpretations, forecasts, and recommendations. It also checks definitions, samples, denominators, units, assumptions, sensitivities, and causal language.
 
+For English reports, the default language target combines an executive business register with IELTS Band 8-level coherence and grammatical control, plus precise GRE-level vocabulary. The rule is precision before difficulty. The skill rejects ornate wording when a simpler term carries the meaning more accurately.
+
 ## Install across agent harnesses
 
 The repository follows the standard `SKILL.md` format and is recognised by the open `skills` CLI. You need Node.js and `npx`.
@@ -221,6 +223,7 @@ professional-business-report/
     ├── evidence-and-research.md
     ├── financial-statement-analysis.md
     ├── industry-performance-from-filings.md
+    ├── language-and-style.md
     ├── method-synthesis.md
     ├── quality-gates.md
     ├── report-modes.md
@@ -238,6 +241,7 @@ professional-business-report/
 - Correlation does not establish causation.
 - Named frameworks must clarify the decision, not decorate the report.
 - Plain language beats consulting jargon.
+- Advanced vocabulary must add precision rather than decoration.
 - The final report should say what evidence or event would change its conclusion.
 
 ## Language

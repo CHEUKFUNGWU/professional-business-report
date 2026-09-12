@@ -1,5 +1,7 @@
 # Writing and exhibits
 
+For English output, apply [language-and-style.md](language-and-style.md) alongside this reference.
+
 ## Build the argument first
 
 Write one governing thought and three to seven supporting claims before drafting. Arrange sections as an argument, not as a diary of research steps.
@@ -97,7 +99,7 @@ Write recommendations as choices, not slogans. State:
 
 ## Style
 
-Write for an informed, impatient reader. Be confident where evidence is strong and explicit where it is weak.
+Write for an informed, impatient reader. Be confident where evidence is strong and explicit where it is weak. Use the professional business register, grammatical control, and precise advanced vocabulary defined in [language-and-style.md](language-and-style.md).
 
 Avoid:
 

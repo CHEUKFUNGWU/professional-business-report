@@ -42,7 +42,7 @@ Read only the references needed:
 - For risk-oriented financial statement analysis that links disclosed risks to business exposure, operating indicators, financial accounts, cash flow, mitigants, and resilience, read [financial-statement-analysis.md](references/financial-statement-analysis.md).
 - For a full-year industry performance report built from 5-10 representative companies' annual reports and filings, read [industry-performance-from-filings.md](references/industry-performance-from-filings.md).
 - To choose the report shape, read [report-modes.md](references/report-modes.md).
-- Before drafting prose or designing charts, read [writing-and-exhibits.md](references/writing-and-exhibits.md).
+- Before drafting prose or designing charts, read [writing-and-exhibits.md](references/writing-and-exhibits.md) and [language-and-style.md](references/language-and-style.md).
 - Before delivery, apply [quality-gates.md](references/quality-gates.md).
 - Read [method-synthesis.md](references/method-synthesis.md) only when explaining the skill's provenance or design.
 
@@ -77,6 +77,8 @@ Read only the references needed:
 - Never imitate PwC or Goldman Sachs branding, wording, proprietary model names, or institutional authorship.
 
 ## Writing standard
+
+For English reports, target the coherence, grammatical control, and lexical range associated with IELTS Band 8, combined with precise GRE-level business vocabulary. Advanced language must improve accuracy, not display difficulty. Read [language-and-style.md](references/language-and-style.md) for the full standard.
 
 Write in plain, precise language. Prefer concrete nouns, active verbs, and measured claims. Vary sentence length naturally. Avoid promotional language, decorative frameworks, forced groups of three, empty urgency, generic conclusions, and stock consulting phrases.
 
