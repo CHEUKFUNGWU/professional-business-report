@@ -242,6 +242,7 @@ professional-business-report/
 - Named frameworks must clarify the decision, not decorate the report.
 - Plain language beats consulting jargon.
 - Advanced vocabulary must add precision rather than decoration.
+- Final report prose must contain no U+2014 EM DASH characters.
 - The final report should say what evidence or event would change its conclusion.
 
 ## Language

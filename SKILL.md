@@ -73,6 +73,7 @@ Read only the references needed:
 - Use consistent definitions across comparisons. Explain any reconciliation.
 - Give charts assertion titles, readable labels, source, unit, period, sample, and notes.
 - Make recommendations traceable to evidence. Include owner, timing, prerequisite, trade-off, and success measure when useful.
+- Never use the U+2014 EM DASH character in report prose, headings, tables, captions, or notes. Rewrite the sentence with ordinary punctuation.
 - Remove claims that are true but do not affect the decision.
 - Never imitate PwC or Goldman Sachs branding, wording, proprietary model names, or institutional authorship.
 

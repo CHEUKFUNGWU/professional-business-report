@@ -90,6 +90,8 @@ Run these checks against the governing brief before delivery.
 - Advanced words express a finer distinction than the simpler alternative; ornamental or thesaurus-driven vocabulary is removed.
 - Cohesion follows the logic of the argument rather than repeated transition phrases.
 - Modal verbs match evidential confidence and do not overstate forecasts, causality, or recommendations.
+- A Unicode scan confirms that the final deliverable contains zero U+2014 EM DASH characters.
+- No spaced hyphen or double hyphen has been used as a substitute for an em dash.
 - Each paragraph has one main point.
 - Empty urgency, puffery, vague attribution, filler, and repeated conclusions are removed.
 - Acronyms and technical terms are defined once.

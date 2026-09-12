@@ -120,6 +120,21 @@ Use short sentences for conclusions and longer sentences for genuine qualificati
 
 Do not force every paragraph into this sequence. Repetition makes professional writing sound automated.
 
+## Prohibited punctuation
+
+Never use the U+2014 EM DASH character anywhere in the final report, including headings, prose, tables, captions, footnotes, and source notes.
+
+Rewrite the sentence instead:
+
+- use a period when the second thought can stand alone;
+- use a comma for a short, closely connected clause;
+- use a semicolon between related independent clauses;
+- use a colon before a genuine explanation or list;
+- use parentheses only for brief, non-essential information;
+- restructure the sentence when punctuation alone does not make the relationship clear.
+
+Do not replace an em dash with a spaced hyphen or two consecutive hyphens. Hyphens remain valid inside compound terms such as "risk-adjusted" and "year-on-year." An en dash may appear only when the governing citation or style guide requires it. Prefer "to" for ranges in ordinary prose.
+
 ## Replace vague business language
 
 Replace phrases such as:
@@ -145,6 +160,7 @@ Before delivery, check:
 6. Are claims calibrated to evidence?
 7. Could an informed reader understand every sentence on the first reading?
 8. Does the report sound like a competent analyst rather than a thesaurus or marketing brochure?
+9. Does a Unicode scan confirm zero U+2014 EM DASH characters?
 
 ## Chinese reports
 

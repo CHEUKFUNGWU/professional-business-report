@@ -113,4 +113,6 @@ Avoid:
 - generic endings such as "the future is promising";
 - claims that correlation proves cause.
 
+Never use the U+2014 EM DASH character. Follow the replacement rules and final scan in [language-and-style.md](language-and-style.md).
+
 Use the language, citation style, headings, word limit, and section structure set by the governing brief.
