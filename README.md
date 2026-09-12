@@ -14,6 +14,7 @@ It borrows analytical discipline, not brand identity. This project is independen
 The skill can plan, analyse, draft, and review:
 
 - data-analysis reports
+- risk-oriented financial statement analysis
 - business performance diagnostics
 - strategy and transformation reports
 - industry and market studies
@@ -23,6 +24,19 @@ The skill can plan, analyse, draft, and review:
 - implementation and progress reviews
 
 It adapts its method to the assignment. A university data report will emphasise reproducibility, method justification, and rubric compliance. A strategy paper will emphasise choices and trade-offs. An outlook will emphasise drivers, scenarios, and what would change the forecast.
+
+The financial statement mode takes a different route from standard ratio analysis. It starts with risks disclosed in the annual report and notes, then tests each risk against the company's business model, operating indicators, financial accounts, cash flow, mitigation, and capacity to absorb a shock.
+
+```text
+disclosed risk
+  -> business exposure
+  -> operating mechanism
+  -> leading indicator
+  -> financial account
+  -> cash and liquidity effect
+  -> mitigation
+  -> residual risk
+```
 
 ## Core method
 
@@ -159,6 +173,22 @@ versus structural. Include scenarios, leading indicators, and conditions that
 would invalidate the conclusion.
 ```
 
+### Risk-oriented financial statement analysis
+
+```text
+Use $professional-business-report to analyse the attached annual reports from a
+risk perspective.
+
+Begin with the principal risks, risk factors, Financial Risk Management note,
+sensitivity tables, credit concentrations, liquidity maturity analysis, covenants,
+and capital-management disclosures. Link each material risk to the affected
+business segments, operating indicators, financial statement accounts, and cash
+flow. Test whether the risk is already visible in the data, assess management's
+mitigation and remaining exposure, and perform reverse stress tests where the
+disclosures support them. Do not organise the report as a generic ratio review and
+do not infer fraud or provide an investment recommendation.
+```
+
 ## Repository structure
 
 ```text
@@ -169,6 +199,7 @@ professional-business-report/
 └── references/
     ├── analytical-methods.md
     ├── evidence-and-research.md
+    ├── financial-statement-analysis.md
     ├── method-synthesis.md
     ├── quality-gates.md
     ├── report-modes.md

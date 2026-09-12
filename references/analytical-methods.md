@@ -67,6 +67,10 @@ Use:
 
 Separate gross potential from realistically captured value. Model adoption, ramp time, cannibalisation, execution probability, shared costs, and cash timing. Show sensitivity to the assumptions that drive the answer.
 
+### Financial statement analysis
+
+Read [financial-statement-analysis.md](financial-statement-analysis.md). Start from disclosed risk, then trace the affected business activity into operating indicators, income-statement and balance-sheet accounts, cash flow, financial capacity, mitigation, and residual exposure. Use ratios only where they test a specific link in that chain.
+
 ### Forecast and scenario analysis
 
 Begin with inherited momentum and measurable drivers. Separate temporary effects from structural trends and level changes from growth-rate changes. Use a base case plus material alternatives only when uncertainty could change the decision.

@@ -46,6 +46,22 @@ Run these checks against the governing brief before delivery.
 - Models address missing data, overlap, double counting, outliers, and normalisation.
 - Forecast, target, budget, benchmark, and actual are labelled correctly.
 
+## Financial statement gate
+
+- Reporting entity, consolidation scope, period length, accounting standard, currency, and scale are explicit.
+- Derived totals and ratios reconcile to the primary statements or explain the difference.
+- Continuing operations, discontinued operations, acquisitions, disposals, restatements, and accounting changes are treated consistently.
+- Reported, adjusted, recurring, non-recurring, estimated, and forecast values are clearly separated.
+- Profit is cross-checked against operating cash flow, working capital, and capital expenditure.
+- Debt, leases, restricted cash, undrawn facilities, covenants, and maturity timing are handled according to the stated definition.
+- Peer comparisons use compatible accounting definitions, periods, currencies, and business mixes.
+- Each priority risk traces from disclosure to business exposure, operating evidence, financial accounts, cash-flow effect, mitigation, and residual risk.
+- Gross exposure is distinguished from exposure after hedging, insurance, diversification, contractual protection, or other mitigation.
+- Sensitivity tables and maturity analyses retain the company's assumptions, scope, and limitations.
+- A risk is not ranked solely because management gave it prominent wording. Financial materiality and evidence determine priority.
+- Boilerplate disclosure, changes in wording, and inconsistencies between risk narrative and financial behaviour are identified.
+- The analysis does not claim to be an audit or personalised investment advice.
+
 ## Exhibit gate
 
 - Titles state supported takeaways.

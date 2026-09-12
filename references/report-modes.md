@@ -33,6 +33,23 @@ Default structure:
 
 Separate accounting decomposition from causal diagnosis.
 
+## Financial statement analysis report
+
+Use to assess a company through the risks disclosed in its annual report and notes. Read [financial-statement-analysis.md](financial-statement-analysis.md) before analysing the statements. Start with principal risks, risk factors, financial risk management disclosures, sensitivities, maturity analyses, credit concentrations, contingencies, and capital-management notes. Trace each material risk into the affected business, operating indicators, financial accounts, cash flow, mitigants, and remaining exposure.
+
+Default structure:
+
+1. purpose, entity, reporting periods, accounting basis, and risk sources;
+2. executive risk assessment and changes from the prior period;
+3. business model and risk transmission map;
+4. risk deep dives linking operating evidence to financial statements and cash flow;
+5. mitigation quality, financial capacity, and residual exposure;
+6. reverse stress tests, scenarios, and monitoring indicators;
+7. disclosure and accounting limitations;
+8. conclusion tied to the stated business decision.
+
+Use ordinary trend and ratio analysis inside the risk deep dives, not as the report's organising structure. Reconcile all derived numbers to the primary statements. Separate reported, adjusted, estimated, and forecast values. Do not issue an audit opinion or turn the report into an investment recommendation unless the user separately requests an authorised investment analysis.
+
 ## Strategy or transformation report
 
 Use for market entry, growth, operating model, technology, workforce, or transformation decisions.

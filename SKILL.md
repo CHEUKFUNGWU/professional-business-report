@@ -1,6 +1,6 @@
 ---
 name: professional-business-report
-description: Research, analyse, structure, draft, and quality-check professional business reports that turn evidence into decisions. Use for business analysis, data-analysis reports, industry studies, market outlooks, strategy papers, business cases, transformation reports, and executive briefings that need clear findings, quantified drivers, scenarios, implications, and practical recommendations. Do not use for creative writing, casual summaries, or personalised investment advice.
+description: Research, analyse, structure, draft, and quality-check professional business reports that turn evidence into decisions. Use for business analysis, data-analysis and financial-statement reports, industry studies, market outlooks, strategy papers, business cases, transformation reports, and executive briefings that need clear findings, quantified drivers, scenarios, implications, and practical recommendations. Do not use for creative writing, casual summaries, audit opinions, or personalised investment advice.
 ---
 
 # Professional business report
@@ -39,6 +39,7 @@ Read only the references needed:
 
 - For source collection, surveys, interviews, datasets, and evidence tracking, read [evidence-and-research.md](references/evidence-and-research.md).
 - For quantitative analysis, driver models, segmentation, forecasts, scenarios, value pools, and recommendations, read [analytical-methods.md](references/analytical-methods.md).
+- For risk-oriented financial statement analysis that links disclosed risks to business exposure, operating indicators, financial accounts, cash flow, mitigants, and resilience, read [financial-statement-analysis.md](references/financial-statement-analysis.md).
 - To choose the report shape, read [report-modes.md](references/report-modes.md).
 - Before drafting prose or designing charts, read [writing-and-exhibits.md](references/writing-and-exhibits.md).
 - Before delivery, apply [quality-gates.md](references/quality-gates.md).
