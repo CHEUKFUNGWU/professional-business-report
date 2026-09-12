@@ -1,0 +1,127 @@
+# Report modes
+
+Choose the mode from the decision and evidence. Combine modes when needed, but keep one dominant structure.
+
+## Data analysis report
+
+Use when the task evaluates a dataset, analytical method, or business pattern.
+
+Default structure:
+
+1. objective and questions;
+2. dataset, variables, quality, and method;
+3. descriptive or exploratory results;
+4. comparisons, relationships, or models;
+5. interpretation tied to objectives;
+6. conclusion and limitations;
+7. reproducibility appendix.
+
+Prioritise method justification, accurate interpretation, reproducibility, and limits. If a rubric specifies headings or methods, follow it exactly. Do not add strategy recommendations unless requested.
+
+## Diagnostic business report
+
+Use to explain why performance changed or differs from plan.
+
+Default structure:
+
+1. outcome and size of the gap;
+2. where the gap is concentrated;
+3. driver decomposition;
+4. root causes and alternative explanations;
+5. controllable and external factors;
+6. corrective actions and monitoring.
+
+Separate accounting decomposition from causal diagnosis.
+
+## Strategy or transformation report
+
+Use for market entry, growth, operating model, technology, workforce, or transformation decisions.
+
+Default structure:
+
+1. decision and strategic tension;
+2. external change and customer need;
+3. value pools or priority opportunities;
+4. internal capabilities and gaps;
+5. strategic options and trade-offs;
+6. recommended choice;
+7. implementation sequence, governance, and measures.
+
+Make the choice explicit. A list of trends is not a strategy.
+
+## Industry or market report
+
+Use to explain market structure, growth, competition, and implications.
+
+Default structure:
+
+1. definition and scope;
+2. market size and historical development;
+3. demand, supply, regulation, and technology drivers;
+4. segments, value chain, and competitive structure;
+5. forecast or scenarios;
+6. implications for participants;
+7. risks and indicators.
+
+Reconcile market definitions across sources and avoid false precision.
+
+## Outlook report
+
+Use when future conditions drive the decision.
+
+Default structure:
+
+1. forecast call and horizon;
+2. comparison with baseline, plan, consensus, or market expectation;
+3. driver-by-driver forecast;
+4. temporary versus structural forces;
+5. scenarios, catalysts, and invalidation;
+6. business implications and monitoring dashboard.
+
+State assumptions and forecast revisions. Do not hide uncertainty behind a point estimate.
+
+## Business case
+
+Use for an investment, product, programme, acquisition, or operational change.
+
+Default structure:
+
+1. decision and alternatives, including do-nothing;
+2. customer or operational problem;
+3. expected benefits and value bridge;
+4. costs, resources, dependencies, and timing;
+5. risks and scenario economics;
+6. recommendation and stage gates;
+7. benefit-realisation measures.
+
+Separate strategic rationale from financial return. Show who owns each assumption.
+
+## Executive briefing
+
+Use for short, time-sensitive decisions.
+
+Default structure:
+
+1. decision required;
+2. answer in one paragraph;
+3. three to five supporting facts;
+4. options and trade-offs;
+5. recommended action;
+6. immediate risks and next checkpoint.
+
+Cut background the audience already knows.
+
+## Progress or post-implementation report
+
+Use to assess delivery and realised value.
+
+Default structure:
+
+1. objective and baseline;
+2. progress against milestones and outcomes;
+3. variance and driver analysis;
+4. realised versus expected benefits;
+5. issues, decisions, and corrective actions;
+6. next-period commitments.
+
+Distinguish activity completed from value delivered.

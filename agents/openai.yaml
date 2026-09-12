@@ -1,0 +1,4 @@
+interface:
+  display_name: "Professional Business Report"
+  short_description: "Evidence-led business analysis and report writing"
+  default_prompt: "Use $professional-business-report to turn this business question and evidence into a decision-ready report."

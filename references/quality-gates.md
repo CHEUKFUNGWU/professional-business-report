@@ -1,0 +1,74 @@
+# Quality gates
+
+Run these checks against the governing brief before delivery.
+
+## Contract gate
+
+- Required sections, questions, methods, length, language, format, and citation style are satisfied.
+- The report serves the named audience and decision.
+- Every promised output exists and uses the required file type and naming convention.
+- A rubric or template takes priority over the skill's default structure.
+
+## Evidence gate
+
+- Every material fact has a direct citation or a reproducible calculation.
+- Sources support the exact claim and use the original data where available.
+- Publication date and data period are not confused.
+- Definitions, sample, geography, denominator, and exclusions are clear.
+- Conflicting and disconfirming evidence has been considered.
+- No result, quotation, citation, or dataset property has been invented.
+
+## Analytical gate
+
+- Observations, explanations, forecasts, and recommendations are distinguishable.
+- Comparisons use consistent bases and units.
+- Percentage and percentage-point changes are correct.
+- Correlation is not presented as causation.
+- Driver contributions reconcile or unexplained residuals are visible.
+- Segments are meaningful and have adequate sample sizes.
+- Forecasts show assumptions, scenarios, and dominant sensitivities.
+- The conclusion is no stronger than the evidence.
+
+## Decision gate
+
+- The executive summary states the answer.
+- Each section advances the governing argument.
+- Every major finding has a clear business implication.
+- Recommendations trace back to findings.
+- Trade-offs, dependencies, owners, and measures are stated when useful.
+- The report says what would change the conclusion.
+
+## Numerical gate
+
+- Units, currency, time period, price basis, and rounding are consistent.
+- Totals reconcile across prose, tables, charts, notebooks, and appendices.
+- CAGR uses compatible endpoints and the correct number of periods.
+- Models address missing data, overlap, double counting, outliers, and normalisation.
+- Forecast, target, budget, benchmark, and actual are labelled correctly.
+
+## Exhibit gate
+
+- Titles state supported takeaways.
+- Axes, legends, scales, units, dates, and labels are readable.
+- Truncated axes, dual axes, colour choices, or aggregation do not mislead.
+- Each exhibit has a source and any needed methodological note.
+- The text interprets the exhibit instead of repeating it.
+
+## Writing gate
+
+- The prose is direct, specific, and natural.
+- Each paragraph has one main point.
+- Empty urgency, puffery, vague attribution, filler, and repeated conclusions are removed.
+- Acronyms and technical terms are defined once.
+- Headings use the user's required style; otherwise use sentence case.
+- The conclusion answers the original questions and adds no unsupported result.
+
+## Final red-team questions
+
+1. What is the weakest evidence supporting the strongest claim?
+2. Could a definition, sample, or composition change explain the result?
+3. Which assumption changes the recommendation most?
+4. What credible alternative explanation remains?
+5. Could the forecast be right while the decision still fails?
+6. What result should be reproduced before publication?
+7. Which paragraph can be removed without reducing decision value?
